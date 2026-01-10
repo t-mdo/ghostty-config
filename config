@@ -1,4 +1,4 @@
-theme = TokyoNight
+theme = TokyoNight Night
 
 font-family = Geist Mono
 font-size = 12
@@ -16,7 +16,7 @@ window-padding-y = 8
 window-padding-color = background
 window-padding-balance = false
 
-macos-titlebar-style = hidden
+macos-titlebar-style = tabs
 macos-icon = official
 
 keybind = super+h=goto_split:left
