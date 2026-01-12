@@ -18,6 +18,7 @@ window-padding-balance = false
 
 macos-titlebar-style = tabs
 macos-icon = official
+macos-tab-placement = right
 
 keybind = super+h=goto_split:left
 keybind = super+l=goto_split:right
