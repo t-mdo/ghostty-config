@@ -32,4 +32,9 @@ font-feature = -calt, -liga, -dlig
 unfocused-split-opacity = 0.6
 keybind = shift+enter=text:\x1b\r
 
-link-previews=false
+link-previews = false
+
+auto-update = download
+auto-update-channel = tip
+
+palette-generate = false
